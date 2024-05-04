@@ -1,0 +1,16 @@
+.action{
+    text-align : right;
+}
+    
+.action a {
+    margin-right : 1rem;
+}
+
+.header{
+    float : right;
+}
+
+.footer{
+    float : left;
+}
+    
